@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcalidate",
+        "uuid": 23060268,
+        "checksum": "jcn937"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
